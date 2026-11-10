@@ -26,6 +26,7 @@ sudo apt update && sudo apt upgrade -y
 git clone https://github.com/offensiveai26/DVAI.git
 cd DVAI
 ```
+<img width="637" height="167" alt="image" src="https://github.com/user-attachments/assets/a5e9f4ef-3cf4-4fd8-b151-7e5b72f0163a" />
 
 ### Step 2: Install Node.js, Python 3.13, and Dependencies
 ```bash
@@ -38,6 +39,9 @@ sudo apt install -y python3.13 python3.13-venv
 # Install Python requirements
 python3 -m pip install --break-system-packages -r requirements.txt
 ```
+<img width="641" height="173" alt="image" src="https://github.com/user-attachments/assets/1c4652ae-bc61-46d7-a2d2-27609c24af13" />
+<img width="506" height="152" alt="image" src="https://github.com/user-attachments/assets/b09bfe02-a96a-437e-95ed-c6e591ad4b17" />
+<img width="741" height="216" alt="image" src="https://github.com/user-attachments/assets/8fc72b61-48f2-4a51-a477-af3790c43661" />
 
 ---
 
@@ -48,6 +52,7 @@ python3 -m pip install --break-system-packages -r requirements.txt
 curl -fsSL https://ollama.com/install.sh | sh
 ollama --version
 ```
+<img width="631" height="292" alt="image" src="https://github.com/user-attachments/assets/77830afa-4d34-4525-9f78-059dbbce47e6" />
 
 ### Step 2: Enable and Start Service
 ```bash
@@ -65,11 +70,13 @@ ollama pull llama3.2:1b
 # Recommended model for logic and cybersecurity analysis (~4.7 GB download)
 ollama pull qwen2.5:7b
 ```
+<img width="627" height="155" alt="image" src="https://github.com/user-attachments/assets/e33b8c7e-3dce-4385-a856-d6ee51ebc884" />
 
 Verify model execution:
 ```bash
 ollama run qwen2.5:7b
 ```
+<img width="627" height="277" alt="image" src="https://github.com/user-attachments/assets/914ff9bd-374c-4f15-9a9c-57ab0084229b" />
 
 ---
 
