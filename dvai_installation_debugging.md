@@ -125,7 +125,10 @@ export OLLAMA_MODEL=llama3
 export MODEL_NAME=llama3
 ./start.sh
 ```
+<img width="387" height="341" alt="image" src="https://github.com/user-attachments/assets/55a4b125-1555-4aa6-abb2-bed4455ca5ec" />
+
 
 Once running:
 * **Frontend UI:** `http://localhost:3000`
 * **Backend API:** `http://localhost:8000`
+<img width="864" height="329" alt="image" src="https://github.com/user-attachments/assets/c48eec8f-f6bc-43ab-bede-7d616001c286" />
