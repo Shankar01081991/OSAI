@@ -1,4 +1,4 @@
-# Prompt Injection Lab Writeups & Solutions
+# Prompt Injection Solutions
 
 Prompt injection occurs when untrusted user input alters the intended logic, flow, or system instructions of a Large Language Model (LLM).
 
